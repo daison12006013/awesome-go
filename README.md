@@ -3031,6 +3031,7 @@ _Full stack web frameworks._
 - [Ronykit](https://github.com/clubpay/ronykit) - Web framework with pluggable architecture and very performant.
 - [rux](https://github.com/gookit/rux) - Simple and fast web framework for build golang HTTP applications.
 - [templui](https://github.com/axzilla/templui) - Modern UI Components for Go & Templ.
+- [TurboScript](https://github.com/daison12006013/turboscript) - A hybrid web framework that combines TypeScript for business logic and Go for runtime execution.
 - [uAdmin](https://github.com/uadmin/uadmin) - Fully featured web framework for Golang, inspired by Django.
 - [WebGo](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
 - [Yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
